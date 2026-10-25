@@ -79,4 +79,4 @@ AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent | 2027 AI t
 
 ## 發布檢查紀錄
 
-見 [驗證紀錄](release/VALIDATION.md)。首張圖卡尺寸與其餘七張有 1–2 像素差異；頁碼字級與座標的像素級一致性未驗證。
+見 [驗證紀錄](release/VALIDATION.md)。
