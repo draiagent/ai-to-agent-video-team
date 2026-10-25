@@ -1,6 +1,6 @@
 # AI to Agent 智慧製片團隊
 
-**ai-to-agent-video-team**｜以角色分工、鏡頭工作圖卡與驗收流程，將影片製作整理成可交接給 Agent 的任務。
+**ai-to-agent-video-team**｜以角色分工與任務、設計、驗收圖卡的完整工作流程，將影片製作整理成可交接給 Agent 的任務。
 
 ![版本](https://img.shields.io/badge/version-0.1.0-blue)
 
