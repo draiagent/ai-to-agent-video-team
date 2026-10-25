@@ -1,0 +1,3 @@
+# 圖卡雜湊記錄於 release/image-sha256.json：文字檔統一以 LF 儲存與檢出，PNG 視為二進位不轉換
+* text=auto eol=lf
+*.png binary

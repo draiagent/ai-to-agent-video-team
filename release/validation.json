@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "images": 8,
+  "relative_links": 22,
+  "dimensions": {
+    "assets/images/01-introduction.png": [
+      1087,
+      1447
+    ],
+    "assets/images/02-production-overview.png": [
+      1086,
+      1448
+    ],
+    "assets/images/03-tools.png": [
+      1086,
+      1448
+    ],
+    "assets/images/04-agent-workflow.png": [
+      1086,
+      1448
+    ],
+    "assets/images/05-shot-task-card.png": [
+      1086,
+      1448
+    ],
+    "assets/images/06-quality-and-cost.png": [
+      1086,
+      1448
+    ],
+    "assets/images/07-collaboration-and-delivery.png": [
+      1086,
+      1448
+    ],
+    "assets/images/08-directors-judgment.png": [
+      1086,
+      1448
+    ]
+  },
+  "errors": []
+}
